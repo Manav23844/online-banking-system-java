@@ -1,0 +1,20 @@
+Online Banking System in Java
+
+Description
+This is a simple **Online Banking System** developed in **Java** using object-oriented programming principles. 
+It allows users to manage accounts, perform transactions, and interact with a basic banking system through the console.
+
+Features
+- Create and manage user accounts
+- Deposit and withdraw money
+- Transfer money between accounts
+- View account balance and transaction history
+- Simple console-based interface
+
+Technologies Used
+- Java (JDK 8+)
+- Eclipse IDE
+- Git & GitHub for version control
+- Object-Oriented Programming concepts
+
+
